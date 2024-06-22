@@ -1,1 +1,7 @@
-ECOMP - enhance control orchestration management and policy
+NFV MANO    -    NFV management and orchestration
+oss         -    operation support system
+bss         -    business support system
+oam         -   Automated ops, Admin Management
+ccsdk        -    common control software development kit
+tosca        -    topology and orchestration specification for cloud applications
+ECOMP       -   enhance control orchestration management and policy
